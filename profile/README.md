@@ -87,7 +87,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
     
 　🛠️ 리팩토링    
  
-　　1\. *`24.04.24 ~ 24.05.18`* - [*프로젝트 구조 변경, 테스트 코드 전체 수정*](https://github.com/zhyun-project/simple-board-02/wiki/🛠%EF%B8%8F-리팩토링-1차-⚒%EF%B8%8F)
+　　1\. *`24.04.24 ~ 24.05.18`* - [*프로젝트 구조 변경, 테스트 코드 전체 수정*](https://github.com/zhyun-project/simple-board-02/wiki/🛠%EF%B8%8F-리팩토링-1차-⚒%EF%B8%8F)  
+　　2\. *`24.08.25 ~ 24.08.27`* - [*docker 적용, 실행 profile별로 사용하는 db를 다르게 적용 (local: h2, prod: mariadb)*](https://github.com/zhyun-project/simple-board-02/pull/92)
 
 <br>
   </td></tr>
