@@ -92,7 +92,7 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 　　3\. *`24.08.28`* - [*ci/cd 적용, 서버 배포*](https://github.com/zhyun-project/simple-board-02/issues/93)  
 　　4\. *`24.08.29`* - [*cors 설정 추가*](https://github.com/zhyun-project/simple-board-02/commit/eeacc04e217caff2e2b76321ea0692ad04265517)  
 　　5\. *`24.08.30`* - [*swagger 설정 추가*](https://github.com/zhyun-project/simple-board-02/issues/94) [ [1. swagger 설정파일 생성](https://github.com/zhyun-project/simple-board-02/commit/33a9900957a7bb94345cb86bf4b93c30b1b07984) , [2. security 관련 설정](https://github.com/zhyun-project/simple-board-02/commit/1b7de074781a117a3402fbb559fdab52c1f3b5fe) ]  
-　　　　　　　　 - [*게시글 관련 기능 수정*](https://github.com/zhyun-project/simple-board-02/issues/98)  
+　　　　　　　 　 - [*게시글 관련 기능 수정*](https://github.com/zhyun-project/simple-board-02/issues/98)  
  
 <br>
   </td></tr>
