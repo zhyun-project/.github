@@ -88,8 +88,12 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
 　🛠️ 리팩토링    
  
 　　1\. *`24.04.24 ~ 24.05.18`* - [*프로젝트 구조 변경, 테스트 코드 전체 수정*](https://github.com/zhyun-project/simple-board-02/wiki/🛠%EF%B8%8F-리팩토링-1차-⚒%EF%B8%8F)  
-　　2\. *`24.08.25 ~ 24.08.27`* - [*docker 적용, 실행 profile별로 사용하는 db를 다르게 적용 (local: h2, prod: mariadb)*](https://github.com/zhyun-project/simple-board-02/pull/92)
-
+　　2\. *`24.08.25 ~ 24.08.27`* - [*docker 적용, 실행 profile별로 사용하는 db를 다르게 적용 (local: h2, prod: mariadb)*](https://github.com/zhyun-project/simple-board-02/pull/92)  
+　　3\. *`24.08.28`* - [*ci/cd 적용, 서버 배포*](https://github.com/zhyun-project/simple-board-02/issues/93)  
+　　4\. *`24.08.29`* - [*cors 설정 추가*](https://github.com/zhyun-project/simple-board-02/commit/eeacc04e217caff2e2b76321ea0692ad04265517)  
+　　5\. *`24.08.30`* - [*swagger 설정 추가*](https://github.com/zhyun-project/simple-board-02/issues/94) [ [1. swagger 설정파일 생성](https://github.com/zhyun-project/simple-board-02/commit/33a9900957a7bb94345cb86bf4b93c30b1b07984) , [2. security 관련 설정](https://github.com/zhyun-project/simple-board-02/commit/1b7de074781a117a3402fbb559fdab52c1f3b5fe) ]  
+　　　　　　　　 - [*게시글 관련 기능 수정*](https://github.com/zhyun-project/simple-board-02/issues/98)  
+ 
 <br>
   </td></tr>
 </table>
