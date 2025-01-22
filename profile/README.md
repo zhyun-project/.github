@@ -1,7 +1,7 @@
 <!-- introduce project repository -------------------------------------------------------------------------------------------------------------------------------------------->
 <div align=center>
 <details>
-  <summary><img src="https://github.com/user-attachments/assets/6c1d4300-049c-49da-8552-1176cd4941fb" alt="🌥️"/></summary>
+  <summary><img src="https://github.com/user-attachments/assets/df232910-b9a1-4565-bb66-362ae1a0374d" alt="🌥️"/></summary>
 
   <br><br>
   <table>
