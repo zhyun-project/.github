@@ -4,7 +4,7 @@
 <br>
 
 <details>
-  <summary>🤓</summary>
+  <summary><img src="https://github.com/user-attachments/assets/6c1d4300-049c-49da-8552-1176cd4941fb" alt="🌥️"/></summary>
 
   <br><br>
   <table>
