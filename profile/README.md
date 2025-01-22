@@ -3,10 +3,14 @@
 
 <br>
 
--<table>
+<details>
+  <summary>🤓</summary>
+
+  <br><br>
+  <table>
   <tr><th width=881px>  
     
-## Simple Board
+## 1. Simple Board
 
 [![gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white)](https://github.com/zhyun-project/simple-board-01)
 [![junit5](https://img.shields.io/badge/JUnit_5-25A162?style=badge&logo=&logoColor=white)](https://github.com/zhyun-project/simple-board-01)
@@ -36,10 +40,10 @@ h2 db를 embedded 형태로 사용하여 제목과 내용을 관리하는 간단
 <br>
 <br>
 
--<table>
+<table>
   <tr><th width=881>
     
-## Board
+## 2. Board
 
 [![gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=badge&logo=Gradle&logoColor=white)](https://github.com/zhyun-project/simple-board-01)
 [![junit5](https://img.shields.io/badge/JUnit_5-25A162?style=badge&logo=&logoColor=white)](https://github.com/zhyun-project/simple-board-01)
@@ -139,6 +143,8 @@ JWT와 시큐리티를 적용하여 사용자 로그인 및 권한에 따른 접
   </td></tr>
 </table>
 -->
+
+</details>
 
 
 </div>
